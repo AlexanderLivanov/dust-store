@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+
+.main-container {
+    height: 100vh;
+    background: linear-gradient(#14041d, #400c4a, #74155d, #c32178);
+}
+
+.search-field-container {
+    text-align: center;
+    padding-top: 50px;
+}
+
+#game-search-header {
+    font-family: 'Tiny5', 'Gill Sans';
+    color: white;
+    font-size: 48pt;
+}
